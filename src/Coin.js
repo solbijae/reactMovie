@@ -46,4 +46,6 @@ function Coin() {
     )
 }
 
+
+// branch test 2
 export default Coin;
